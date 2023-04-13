@@ -4,7 +4,7 @@ import { GoogleLogin } from '@react-oauth/google';
 export default function GoogleSignin() {
     return (
         <GoogleOAuthProvider
-            clientId="103603048152-42oo200pr067ahtntminh5m6kc88m618.apps.googleusercontent.com">
+            clientId="903319987132-adhipbr8f0lfuq7odt2qojd0v17g6bj4.apps.googleusercontent.com">
             <LoginOneTapCrux />
         </GoogleOAuthProvider>
     )
